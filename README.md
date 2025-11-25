@@ -1,4 +1,4 @@
-# sample_app
+# dice_roll
 
 A new Flutter project.
 
